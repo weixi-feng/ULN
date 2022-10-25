@@ -16,14 +16,7 @@ Please follow the instructions in [Recurrent-VLN-BERT](https://github.com/Yicong
 
 ### Trained Network Weights
 
-- Classifier: `snap`
-    - Download the [trained classifier model]() for the classifier model.
-
-- Agent: `snap`
-    - Download the [trained network weights [2.5GB]]() for our agent with Granularity-Specific Subnetworks (GSS).
-
-- Explorer: `snap`
-    - Download the [trained explorer model]() for uncertainty-based exploration. 
+- Download the trained [classifier/agent/explorer](https://drive.google.com/drive/folders/1u6dJxzEbZNvZJOIc1qa287YbGiZOt4QW?usp=sharing) and put these folders under the `snap` directory.
 
 
 ### Reproduce Testing Results
