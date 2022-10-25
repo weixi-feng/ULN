@@ -45,4 +45,4 @@ The trained model will be saved under `snap/`.
 
 
 ## Todo
-- [] add checkpoints download link
+- [ ] add checkpoints download link
