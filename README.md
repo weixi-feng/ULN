@@ -1,18 +1,18 @@
 # [EMNLP'22] ULN: Towards Underspecified Vision-and-Language Navigation
-Code and data of EMNLP 2022 paper:
-**ULN: Towards Underspecified Vision-and-Language Navigation**
+Code and data of EMNLP 2022 paper:<br>
+**ULN: Towards Underspecified Vision-and-Language Navigation**<br>
 [Weixi Feng](https://weixi-feng.github.io/), [Tsu-Jui Fu](https://tsujuifu.github.io/), [Yujie Lu](https://yujielu10.github.io/), [William Yang Wang](https://sites.cs.ucsb.edu/~william/)
 
 [Paper](https://arxiv.org/abs/2210.10020)
 
 ## Todo
 - [x] Release data
-- [] Complete README
+- [ ] Complete README
 - [x] Release Recurrent-VLN-BERT based framework
 - [x] Release Recurrent-VLN-BERT based checkpoints
-- [] Release HAMT-based framework
-- [] Release HAMT-based checkpoints
-- [] Clean code
+- [ ] Release HAMT-based framework
+- [ ] Release HAMT-based checkpoints
+- [ ] Clean code
 
 
 ## Comments
